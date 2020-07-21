@@ -168,5 +168,7 @@ right:30%;
 .title-img{
   transform: rotate(0);
   position: static;
+  text-align: center;
+  margin: 2%,0;
   }
 }
